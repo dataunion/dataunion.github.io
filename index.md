@@ -4,7 +4,7 @@ title: "Data Critiques - An Introduction to Scope and Mission"
 date: 2019-02-08
 ---
 
-# Data Critiques - An Introduction
+# An Introduction
 *__February 8th, 2019__*
 
 These folders contain notes and documents developed by an informal group of collaborators, around the topic of “Data Custody and Access”. We are exploring ways to have a global impact on the collection, custody, analysis, value extraction and value sharing, of personal and societal data.
