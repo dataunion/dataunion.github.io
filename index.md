@@ -48,6 +48,6 @@ So far, we seem pretty sure that the following concepts will be useful:
 Finally, we strive to not let the “good” become the enemy of the “best”. There is a very real risk that a “practical” or feasible effort in this direction, would become a barrier to a truly progressive improvement. So we favor insanely bold ideation first, and pragmatic action plans second, if at all.
 
 
-We have a standing meeting every Friday at 4:30pm GMT, which you can join by zoom at [https://zoom.us/j/6793252409](https://zoom.us/j/6793252409)
+We have a standing meeting every Friday at 7:30pm GMT, which you can join by zoom at [https://zoom.us/j/6793252409](https://zoom.us/j/6793252409)
 
 *Community Collaboration Disclaimer: We intentionally embrace an ethos that values the diversity of perspectives and experience of our community. This means that, while we focus our efforts on areas of shared critique, one or more of us may disagree with the stated community position on any given topic. We also allow ourselves, individually and as a group, to learn, debate, and change our mind as we progress.*
