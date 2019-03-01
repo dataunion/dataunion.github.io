@@ -1,6 +1,6 @@
-name: Data Critique - The International Centre for Data Rights
-title: Data Critique
-description: A community project of the International Centre for Data Rights, Custody and Access
+name: Data Critiques - The International Centre for Data Rights, Custody and Access
+title: Data Critiques
+description: A Community Project of the International Centre for Data Rights, Custody and Access
 markdown: kramdown
 # remote_theme: dataunion/Gravity
 theme: jekyll-theme-minimal
