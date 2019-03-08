@@ -7,11 +7,11 @@ date: 2019-02-08
 # An Introduction
 *__February 8th, 2019__*
 
-These folders contain notes and documents developed by an informal group of collaborators, around the topic of “Data Custody and Access”. We are exploring ways to have a global impact on the collection, custody, analysis, value extraction and value sharing, of personal and societal data.
+'Data Critiques' is an informal group of collaborators around the topic of “Data Custody and Access”. We are exploring ways to have a global impact on the collection, custody, analysis, value extraction and value sharing, of personal and societal data.
 
 * Andrew Hoppin - Chair, Global Integrity
 * Anouk Ruhaak - Journalist & Engineer, Newspeak House
-* Jessy-Kate Schingler - Engineer & Placemaker, Embassy Network
+* Jessy Kate Schingler - Software Engineer, Space Policy and Governance Researcher, Embassy Network
 * Jonnie Penn - Historian, Cambridge
 * Joshua McKenty - Generalist & Canadian
 * Tony Lai - Lawyer, Stanford
