@@ -11,7 +11,7 @@ These folders contain notes and documents developed by an informal group of coll
 
 * Andrew Hoppin - Chair, Global Integrity
 * Anouk Ruhaak - Journalist & Engineer, Newspeak House
-* Jessy-Kate Schingler - Engineer & Placemaker, Embassy Network
+* Jessy Kate Schingler - Software Engineer, Space Policy and Governance Researcher, Embassy Network
 * Jonnie Penn - Historian, Cambridge
 * Joshua McKenty - Generalist & Canadian
 * Tony Lai - Lawyer, Stanford
