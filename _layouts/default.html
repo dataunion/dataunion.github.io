@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
@@ -29,6 +30,17 @@
             {% if sitePage.title %}
         
             <span class="exclamationMark">/</span><a class="page-link" href="{{sitePage.url | prepend: site.baseurl }}">{{sitePage.title}}</a>
+            {% endif %}
+            {% endfor %}
+        </div>
+        <br>
+        <br>
+           <div class="trigger site-navigation">
+            <h1 class="responsive-h1 caps">Blog</h1>
+        
+            {% for post in site.posts %}
+            {% if post.title %}
+           <span class="exclamationMark"></span><a class="page-link" href="{{post.url | prepend: site.baseurl }}">{{post.title}}</a><br><br>
             {% endif %}
             {% endfor %}
         </div>
