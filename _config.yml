@@ -8,3 +8,28 @@ url: "http://www.datacritique.com"
 twitter_username: jmckenty
 github_username: dataunion
 email: jmckenty@gmail.com
+
+
+authors:
+  all:
+    name: Data Critiques
+    username: all
+    email: hello@anoukruhaak.com
+    image: none
+    about: A Community Project of the International Centre for Data Rights, Custody and Access 
+    link: none
+
+  anouk:
+    name: Anouk Ruhaak
+    username: anouk
+    email: hello@anoukruhaak.com
+    about: Data governance researcher 
+    link: http://twitter.com/anoukruhaak
+
+  josh:
+    name: Josh McKenty
+    username: josh
+    email: jmckenty@gmail.com
+    link: https://www.twitter.com/jmckenty
+
+default_author: all
