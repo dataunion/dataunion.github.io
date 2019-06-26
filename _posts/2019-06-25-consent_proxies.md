@@ -3,7 +3,7 @@ layout: post
 title:  "Could consent proxies help us navigate privacy concerns?"
 date: 2019-06-24 14:08:11 +0200
 categories: privacy consent
-description: Freedom can be a lucrative business model, one we pay for with our agency.
+description: Online consent is severely broken and the wreckage extends beyond the impossible-to-navigate consent windows. Could consent proxies help fix it?
 authors:
  - anouk
  - josh
