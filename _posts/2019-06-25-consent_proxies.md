@@ -20,13 +20,13 @@ One of the underlying problems, Nissenbaum observes, is that consent is not mean
 But we should not have to be experts to make decisions about how data about us is collected and shared. Likewise, we should not have to trust Facebook to make those decisions for us. One solution is to play safe, and severely limit the data that is collected about us. This is the approach taken by the General Data Protection Regulation (GDPR) that came into force in Europe last year. Whilst an improvement, this defensive attitude towards data sharing does not help us in circumstances where we might want to share more data about ourselves: where doing so is in both our personal and collective interests. 
 
 
-### Consent proxies
+## Consent proxies
 
 Enter consent proxies: organisations to make consent decisions on your behalf. These could be any organisation you trust to make decisions for you on specific types of data about you. For instance, someone infected with HIV might have specific privacy preferences, ranging from a desire to keep this information private, to wishes to help research towards better treatments. HIV advocacy bodies would potentially be well-suited to understand the context necessary to navigate these concerns, which are both complex and interlinked. In a similar vein, trade unions could be well-positioned to create consent profiles that would specifically deal with data collection and sharing relating to future employment, or wage calculations. 
 
 Consent proxies, therefore, are organisations that hold expertise in specific domains (e.g. health, mobility, human rights) and use that expertise to draft consent profiles regarding data collection and usage that individuals can adopt as their own. These profiles reflect the ethical considerations and risk assessments performed by the consent proxies, as well as the values and norms the proxy stands for. The trust placed in consent proxies is founded in their proven capacity for understanding the specific norms, values, needs and expectations of a specific demographic, given a specific context.  
 
-### Requirements for effective consent proxies
+## Requirements for effective consent proxies
 In order for a consent proxy to effectively address the problems laid out above, it needs to fulfill a number of roles and requirements:
 
 1. **Consent profiles should be usable**
@@ -43,7 +43,7 @@ In order for a consent proxy to effectively address the problems laid out above,
 
 
 
-### Would consent proxies work in the wild?
+## Would consent proxies work in the wild?
 
 At this point, the careful reader will wonder why any platform or service would agree to have their activities curtailed by consent profiles, when at the moment they have free rein. Fair question. For the moment, consent profiles are likely most relevant to services that rely on their users trusting them with data about them. It could, for instance, be a solution for companies that allow users to make data about them available to third parties. What if citizens would like to make location data about them available to local governments to improve flow of traffic? Or perhaps salaried workers would like their salary data available for research into gender disparities? A consent proxy could be a great way to help them better share data about themselves, while ensuring the way this data is used corresponds with their values and privacy expectations.
 
@@ -51,7 +51,7 @@ But to make consent proxies work for the average internet user, the creation of 
 
 A number of solutions to level the playing field have already been proposed, ranging from decentralized web technologies (e.g. Solid, Holochain, MaidSafe) to data trusts. While still in their infancy, these technologies and infrastructures promise to shift the power from the creators of closed platforms, back to the consumers of those platforms. Once the playing field is sufficiently leveled, a consent proxy - or consortium of consent proxies - would hold enough collective bargaining power to alter the behavior of data collectors and users. Equally, consent proxies could meaningfully advise against using a platform that fails to adopt any of its profiles.
 
-### To conclude
+## To conclude
 
 Consent proxies will not be a magic bullet, but rather part of a range of infrastructural solutions that together pave the way for better data sharing while safeguarding individual and collective privacy. Of course, there are a number of remaining questions to work out. Who would cover the costs of setting up the consent proxies and creating the consent profiles? How do we ensure that the organisations we trust to become these proxies have enough understanding of data (in addition to their understanding of their specific domain)? 
 
