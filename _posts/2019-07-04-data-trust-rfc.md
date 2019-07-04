@@ -3,7 +3,7 @@ layout: post
 title:  "Data Trusts - Request For Comments"
 date: 2019-07-04 14:08:11 +0200
 categories: privacy consent
-description:
+description: In this RFC we present our concept of a data trust as one way to overcome the main challenges of data custody and to provide a way to make data available for the common good while safeguarding our various privacies.
 authors:
  - all
 ---
