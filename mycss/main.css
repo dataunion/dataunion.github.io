@@ -1,3 +1,4 @@
+
 body {
     margin: 60px auto;
     width: 70%;
@@ -8,6 +9,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 3em;
 }
+
 
 .blog-title {
     font-size: 2em;
@@ -20,7 +22,6 @@ nav ul, footer ul {
     font-weight: bold;
 }
 nav ul li, footer ul li {
-    display: block;
     margin-right: 10px;
 }
 a {
@@ -45,7 +46,13 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    bottom: 0;
 }
+
+header {
+
+}
+
 
 ul.posts { 
     margin: 20px auto 40px; 
@@ -73,6 +80,7 @@ ul.posts li {
 
 }
 
+
 hr {
     border: 0;
     height: 1vh;
@@ -91,4 +99,18 @@ hr.logo {
     margin-left: -3px;
     top: 0;
     background-color: #1f144e;
+}
+
+@media screen and (max-width: 920px) {
+    h1 {
+        font-size: 1.5em;
+        }
+    .blog-title {
+        font-size: 2em;
+    }
+
+    .logo {
+        font-size: 2.5em;
+        margin-left: 5px;
+}
 }
