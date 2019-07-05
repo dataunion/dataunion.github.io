@@ -4,6 +4,7 @@ title:  "Could consent proxies help us navigate privacy concerns?"
 date: 2019-06-24 14:08:11 +0200
 categories: privacy consent
 description: Online consent is severely broken and the wreckage extends beyond the impossible-to-navigate consent windows. Could consent proxies help fix it?
+image: data.jpg
 authors:
  - anouk
  - josh

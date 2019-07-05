@@ -3,7 +3,8 @@ layout: post
 title:  "Data Portability, Federation And Portable Consent"
 date: 2019-07-03 14:08:11 +0200
 categories: privacy consent
-description: In order to have real choice online, we need portable data and consent. We need separate platforms, protocols and licenses, such that each represents a check or balance on the others. 
+description: In order to have real choice online, we need portable data and consent. We need separate platforms, protocols and licenses, such that each represents a check or balance on the others.
+image: data.jpg 
 authors:
  - josh
  - anouk
