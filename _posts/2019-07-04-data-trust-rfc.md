@@ -46,6 +46,10 @@ In order to be able to trust the data trust, the data custodian should be requir
 
 
 ## What Comments Are We Asking For?
+
+[Please have a look at the full document and leave any comments / ideas /questions.](https://docs.google.com/document/d/1e-PHibsPE-b4irLPzPmCJenlDTKf34EWljg0wF2Pizo/edit?usp=sharing) Thank you!
+
+
 We are looking for general feedback and comments on the ideas presented in this RFC. In addition, there are still a number of open questions we would like your input on, specifically:
 Incentives: Are the moral, technical and financial incentives strong enough for meaningful participation, without regulatory pressure?
 
