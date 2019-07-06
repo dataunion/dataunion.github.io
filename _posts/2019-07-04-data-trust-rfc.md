@@ -23,12 +23,12 @@ When it comes to the custody of data about us, we are faced with a plethora of f
 In our view, any meaningful solution to this set of challenges starts with a separation between  those holding the data, and those collecting and/or using it. Enter a Data Trust: A piece of infrastructure to separate companies that collect and/or use (personal) data, from the custody of that data. The custodian is a non-profit, acting under the direction of a trust. This infrastructure allows data subjects to control under what conditions data about them is used. It places a fiduciary responsibility on that custodian (the trustee) to act in the best interest of the data subjects, as well as those impacted by the sharing of data under the custodian's control. 
 
 In our design of a data trust we accept a number of real-world constraints and scope restrictions:
-We do not require any laws to be changed for our concept to be implemented. 
-Implementing a democratic governance process within a data trust is out of scope; therefore, the trust will have a rule-making process that is permanent.
-We do not believe short-cuts (for instance in the form of homomorphic encryption or federated learning) are advanced enough to provide true privacy. 
-We do not require human beings to have endless time and energy to spend on making decisions about their privacy. We call this the usability requirement.
-Any data trust needs to make explicit whether it prioritises prevention of loss, prevention of breech, or a guarantee of completeness. This is equivalent to the CAP theorem, for custody.
-We treat data as a set of claims, not a set of facts. A data set can contain contradictory claims.
+- We do not require any laws to be changed for our concept to be implemented. 
+- Implementing a democratic governance process within a data trust is out of scope; therefore, the trust will have a rule-making process that is permanent.
+- We do not believe short-cuts (for instance in the form of homomorphic encryption or federated learning) are advanced enough to provide true privacy. 
+- We do not require human beings to have endless time and energy to spend on making decisions about their privacy. We call this the usability requirement.
+- Any data trust needs to make explicit whether it prioritises prevention of loss, prevention of breech, or a guarantee of completeness. This is equivalent to the CAP theorem, for custody.
+- We treat data as a set of claims, not a set of facts. A data set can contain contradictory claims.
 
 To navigate these constraints in light of our vision of a data trust, we rely on a few key components, as discussed below.
 
