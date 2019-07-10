@@ -11,7 +11,7 @@ authors:
 
 - Executive summary
 - What comments are we looking for?
-- [Link to the full document](https://docs.google.com/document/d/1e-PHibsPE-b4irLPzPmCJenlDTKf34EWljg0wF2Pizo/edit?usp=sharing)
+- [Download the PDF](http://datacritique.com/Data_Trust_RFC.pdf)
 
 ## Executive Summary 
 
@@ -47,7 +47,7 @@ In order to be able to trust the data trust, the data custodian should be requir
 
 ## What Comments Are We Asking For?
 
-[Please have a look at the full document and leave any comments / ideas /questions.](https://docs.google.com/document/d/1e-PHibsPE-b4irLPzPmCJenlDTKf34EWljg0wF2Pizo/edit?usp=sharing) Thank you!
+[Please have a look at the full document, by downloading the pdf](http://datacritique.com/Data_Trust_RFC.pdf) Thank you!
 
 
 We are looking for general feedback and comments on the ideas presented in this RFC. In addition, there are still a number of open questions we would like your input on, specifically:
